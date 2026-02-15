@@ -3,7 +3,7 @@ import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "8523181326:AAGqYXjhXlw73carr3ldM0Ye6xqgXnGm9PA"
+BOT_TOKEN = "8596655920:AAFx7QsWpWAum6DrRHnzOeOjEE72brXj_yk"
 
 logging.basicConfig(level=logging.INFO)
 
